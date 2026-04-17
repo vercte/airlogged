@@ -1,0 +1,97 @@
+# Airlogged
+Modpack for Wilderness Season 4. Featuring Create Aeronautics
+
+## Mod List
+Key:
+By default, mods are **common** (installed everywhere, on both Client and Server). Mods with both Client and Server icons are optional on both.
+- 🖥️ Client Only
+- ☁️ Server Only
+- 🍎 MacOS Only
+- ❓ Optional
+
+### Important Tweaks
+You may want to look at the premise of these mods—they can change gameplay quite a bit.
+- [Aileron](https://modrinth.com/mod/b8kG1VGq)
+    - Elytra nerfs
+- [Clutter No More](https://modrinth.com/mod/clutter-no-more)
+    - Hold ALT to change the shape of a block
+- [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) 🖥️☁️
+    - Voice chat ⁉️
+
+### Content
+- [Amendments](https://modrinth.com/mod/6iTJugQR)
+- [CC: Tweaked](https://modrinth.com/mod/gu7yAYhd)
+- [Create](https://modrinth.com/mod/LNytGWDc) 
+- [Create Big Cannons](https://modrinth.com/mod/GWp4jCJj)
+- [Create Bits 'n' Bobs](https://modrinth.com/mod/T8bvmqVZ)
+- [Create: Central Kitchen](https://modrinth.com/mod/btq68HMO)
+- [Create: Copycats+](https://modrinth.com/mod/UT2M39wf)
+- [Create: Dragons Plus](https://modrinth.com/mod/dzb1a5WV)
+- [Create: Garnished](https://modrinth.com/mod/6e2SlzR4)
+- [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R)
+- [Create: Steam 'n' Rails 1.21.1](https://modrinth.com/mod/L3Jv0QZI)
+- [Create: Extended Wrenches](https://modrinth.com/mod/WNRCHiE5)
+- [Every Compat](https://modrinth.com/mod/eiktJyw1)
+- [Farmer's Delight](https://modrinth.com/mod/R2OftAxM)
+- [No Man's Land](https://modrinth.com/mod/kjZCvAn6)
+- [Patchouli](https://modrinth.com/mod/nU0bVIaL)
+- [Satchels](https://modrinth.com/mod/satchels)
+- [Slag n' Embers](https://modrinth.com/mod/56bnCCwq)
+- [Supplementaries](https://modrinth.com/mod/fFEIiSDQ)
+- [VanillaBackport](https://modrinth.com/mod/6xwxDTgf)
+- [Vista](https://modrinth.com/mod/zuARv1N7)
+
+### Quality Of Life
+- [Accessories](https://modrinth.com/mod/jtmvUHXj) 
+    - [Accessories Compatibility Layer](https://modrinth.com/mod/ySnjMzLg): Curios compat
+    - [Curios API](https://modrinth.com/mod/vvuO3ImH): Duh
+- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) 🖥️☁️
+- [Architectury](https://modrinth.com/mod/lhGA9TYQ)
+- [Biolith](https://modrinth.com/mod/iGEl6Crx)
+- [Bridging Mod](https://modrinth.com/mod/lO3s8hjs) 🖥️
+- [Cobweb](https://modrinth.com/mod/dQcfqGbl)
+- [Concurrent Chunk Management Engine](https://modrinth.com/mod/COlSi5iR) 🖥️☁️
+- [Controlling](https://modrinth.com/mod/xv94TkTM) 🖥️
+- [Death Keeper](https://modrinth.com/mod/death-keeper)
+- [EMI](https://modrinth.com/mod/fRiHVvU7) 🖥️☁️
+    - [TooManyRecipeViewers](https://modrinth.com/mod/yFypjcfd) 🖥️☁️: JEI compat
+- [Harvest with ease](https://modrinth.com/mod/W4Ajthd2) ☁️
+- [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) 🖥️
+- [Rapid Leaf Decay](https://modrinth.com/mod/jSQXzmcf) ☁️
+- [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) 🖥️
+- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) 🖥️
+
+### Client Tweaks
+- [Figura](https://github.com/FiguraMC/Figura) 🖥️
+- [Particle Rain](https://modrinth.com/mod/nrikgvxm) 🖥️
+- [Raised](https://modrinth.com/mod/nCQRBEiR) 🖥️
+- [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) 🖥️☁️
+- [YUNG's Menu Tweaks](https://modrinth.com/mod/Hcy2DFKF) 🖥️
+
+### Optimization
+- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) 🖥️
+- [Ksyxis](https://modrinth.com/mod/2ecVyZ49) ☁️
+- [Lithium](https://modrinth.com/mod/gvQqBUqZ) ☁️
+- [Noisium](https://modrinth.com/mod/hasdd01q) ☁️
+- [Sodium](https://modrinth.com/mod/AANobbMI) 🖥️
+
+### Dev QOL
+- [CME is Bad](https://modrinth.com/mod/ubAFBxFs) 🖥️☁️
+- [Crash Assistant](https://modrinth.com/mod/crash-assistant)
+- [Paxi](https://modrinth.com/mod/CU0PAyzb)
+- [Yeetus Experimentus](https://modrinth.com/mod/HaaH232J) 🖥️
+- [Your Options Shall Be Respected (NeoForge)](https://modrinth.com/mod/1Q1Lbl0G) 🖥️☁️
+
+### MacOS Fixes
+- [Ctrl Q](https://modrinth.com/mod/Dxv5rpnB) 🖥️🍎
+- [McMouser](https://modrinth.com/mod/aXReRvgU) 🖥️🍎
+
+### Libraries
+- [M.R.U](https://modrinth.com/mod/SNVQ2c0g)
+- [Moonlight Lib](https://modrinth.com/mod/twkfQtEc)
+- [Platform](https://modrinth.com/mod/i6fiqm5y)
+- [Ritchie's Projectile Library](https://modrinth.com/mod/B3pb093D)
+- [Searchables](https://modrinth.com/mod/fuuu3xnx) 🖥️
+- [YUNG's API](https://modrinth.com/mod/Ua7DFN59)
+- [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) 
+- [oωo](https://modrinth.com/mod/ccKDOlHs)

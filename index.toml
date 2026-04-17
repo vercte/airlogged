@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "59f855f6a0bbad9e98fd9c1bfa26769db8be1db4877d6e9351f31b26c28d368b"
+
+[[files]]
 file = "config/aileron.json"
 hash = "df5ae243f289a2ad1321c288d88a7bdbe85371983ae9daf5fdad4571cc42bb4c"
 
@@ -124,6 +128,11 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "307c3b45ac96da2472b9856d40c9c7986654f5a4d1507ade813c7995ed0de56e"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "c0ce5acc926fd747135f330cb3e53b847e5c05ed950b96f7cbe0d1159aefa285"
 metafile = true
@@ -166,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/death-keeper.pw.toml"
+hash = "28e5006830371ae54593597d26392df4619f0c15b3176769db902dbbbe1d7fbc"
 metafile = true
 
 [[files]]
