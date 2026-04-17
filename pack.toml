@@ -1,0 +1,13 @@
+name = "aeroprep"
+author = "Vercte"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "997feb42600cf40232a4f2a40450a9090e099e0791a3da3d85a3965a1135f6c5"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.225"

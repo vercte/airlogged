@@ -1,0 +1,13 @@
+name = "CME is Bad"
+filename = "CMESuckMyDuck-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ubAFBxFs/versions/f1s2w0yp/CMESuckMyDuck-1.1.1.jar"
+hash-format = "sha512"
+hash = "4aaeefca8f791acca98e62473b7d11cf8da930abb076866b1e93e45cf36ed30545f16973dfe546ba6a253742fa082759025b47bea13ca09f2449d70141dd3546"
+
+[update]
+[update.modrinth]
+mod-id = "ubAFBxFs"
+version = "f1s2w0yp"
