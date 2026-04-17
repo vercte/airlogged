@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "59f855f6a0bbad9e98fd9c1bfa26769db8be1db4877d6e9351f31b26c28d368b"
+hash = "92434b93e80dcefc23553046f1a0ad712745ebcfc24b762bb837b8b70e5154ef"
 
 [[files]]
 file = "config/aileron.json"
@@ -11,6 +11,10 @@ hash = "df5ae243f289a2ad1321c288d88a7bdbe85371983ae9daf5fdad4571cc42bb4c"
 [[files]]
 file = "config/bridgingmod.json"
 hash = "d9ea36767fb9b8754cb4ea5db29995cae8f8b1f8e665cbaf22270c5d7b5d9bea"
+
+[[files]]
+file = "config/crash_assistant/config.toml"
+hash = "398561b1a2fb8ccf73661e5ddac11a4a73322d58a93f6aebe4d0543199289ecc"
 
 [[files]]
 file = "config/entityculling.json"
@@ -118,6 +122,11 @@ hash = "23f681379a3e647a59f0749d25f2ce0725d4afafeed41871c5c87f2658d13a72"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "2093cb1975cff3c2e584282bc19340d1d7567dc61c86a0461adce0066d6e3a62"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -215,6 +224,16 @@ metafile = true
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "1e5b320ad839b14df9754644d36a10bc745bf165da797b9b195136ee6b1f06a7"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]

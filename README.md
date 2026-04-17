@@ -41,6 +41,9 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [VanillaBackport](https://modrinth.com/mod/6xwxDTgf)
 - [Vista](https://modrinth.com/mod/zuARv1N7)
 
+### Worldgen
+- [Continents](https://modrinth.com/datapack/continents)
+
 ### Quality Of Life
 - [Accessories](https://modrinth.com/mod/jtmvUHXj) 
     - [Accessories Compatibility Layer](https://modrinth.com/mod/ySnjMzLg): Curios compat
@@ -56,6 +59,8 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [EMI](https://modrinth.com/mod/fRiHVvU7) 🖥️☁️
     - [TooManyRecipeViewers](https://modrinth.com/mod/yFypjcfd) 🖥️☁️: JEI compat
 - [Harvest with ease](https://modrinth.com/mod/W4Ajthd2) ☁️
+- [Jade](https://modrinth.com/mod/jade) 🖥️☁️
+    - [Jade Addons](https://modrinth.com/mod/jade-addons-forge) 🖥️☁️
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) 🖥️
 - [Rapid Leaf Decay](https://modrinth.com/mod/jSQXzmcf) ☁️
 - [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) 🖥️
