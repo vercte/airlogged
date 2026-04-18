@@ -78,6 +78,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 
 ### Optimization
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) 🖥️
+- [Ferritecore](https://modrinth.com/mod/ferritecore) 🖥️
 - [Ksyxis](https://modrinth.com/mod/2ecVyZ49) ☁️
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ) ☁️
 - [Noisium](https://modrinth.com/mod/hasdd01q) ☁️
