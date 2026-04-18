@@ -89,6 +89,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Chunky](https://modrinth.com/mod/chunky) ☁️
 - [CME is Bad](https://modrinth.com/mod/ubAFBxFs) 🖥️☁️
 - [Crash Assistant](https://modrinth.com/mod/crash-assistant)
+- [End Locker](https://github.com/vercte/endlock)
 - [Paxi](https://modrinth.com/mod/CU0PAyzb)
 - [Yeetus Experimentus](https://modrinth.com/mod/HaaH232J) 🖥️
 - [Your Options Shall Be Respected (NeoForge)](https://modrinth.com/mod/1Q1Lbl0G) 🖥️☁️
