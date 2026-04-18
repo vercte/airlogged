@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "92434b93e80dcefc23553046f1a0ad712745ebcfc24b762bb837b8b70e5154ef"
+hash = "1475c4abbbb484f605d1d1a6c2d5d98fa52d0cd606b430f775f62956970b664d"
 
 [[files]]
 file = "config/aileron.json"
@@ -89,6 +89,11 @@ metafile = true
 [[files]]
 file = "mods/biolith.pw.toml"
 hash = "b6334969f26d7d6ad0c9dd5e2336a71952c286bee1e38ac0aa22a757ad8e3d0d"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "0236c16fae038f834245ad6c9b05f385f75db2e82630bdbf71a4b1a2e6def57d"
 metafile = true
 
 [[files]]
@@ -222,6 +227,11 @@ hash = "19c09828ce6d394ec1d9906b1a6ff02998052274024182e83027c6e8eee9eb04"
 metafile = true
 
 [[files]]
+file = "mods/gears-n-kinetics.pw.toml"
+hash = "ca9a6e860a062bf02cdc222775e8adaa2c0d9a38891464eeb55a12eecef69ce4"
+metafile = true
+
+[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "1e5b320ad839b14df9754644d36a10bc745bf165da797b9b195136ee6b1f06a7"
 metafile = true
@@ -289,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/pause-day-cycle.pw.toml"
+hash = "57412cc89b46f2a21b6178ea49049551b58ab45dc1d96f3541dd6e404cc645a5"
 metafile = true
 
 [[files]]

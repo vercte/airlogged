@@ -1,12 +1,12 @@
-name = "aeroprep"
+name = "airlogged"
 author = "Vercte"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ec66ca39bc48c04e2a54e97eafdbc97871a52bce6c42b4eacbfb552b527c5e52"
+hash = "13d652d5ee5369d13e7c1748c3eb3a4fdca58a09068e51617bd2c8504e08d71d"
 
 [versions]
 minecraft = "1.21.1"
