@@ -30,7 +30,8 @@ You may want to look at the premise of these mods—they can change gameplay qui
     - [Create: Garnished](https://modrinth.com/mod/6e2SlzR4)
     - [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R)
     - [Create: Steam 'n' Rails 1.21.1](https://modrinth.com/mod/L3Jv0QZI)
-    - [Create: Extended Wrenches](https://modrinth.com/mod/WNRCHiE5)
+    - [Create: Extended Wrenches](https://modrinth.com/mod/WNRCHiE5),
+    - [Gears n' Kinetics](https://modrinth.com/mod/gears-n-kinetics)
 - [Every Compat](https://modrinth.com/mod/eiktJyw1)
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM)
     - [Brewin' and Chewin'](https://modrinth.com/mod/brewin-and-chewin)
@@ -63,6 +64,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Jade](https://modrinth.com/mod/jade) 🖥️☁️
     - [Jade Addons](https://modrinth.com/mod/jade-addons-forge) 🖥️☁️
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) 🖥️
+- [Pause Day Cycle](https://modrinth.com/mod/pause-day-cycle) ☁️
 - [Rapid Leaf Decay](https://modrinth.com/mod/jSQXzmcf) ☁️
 - [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) 🖥️
 - [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) 🖥️
