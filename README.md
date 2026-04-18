@@ -8,6 +8,7 @@ By default, mods are **common** (installed everywhere, on both Client and Server
 - ☁️ Server Only
 - 🍎 MacOS Only
 - ❓ Optional
+- 🕑 Temporary
 
 ### Important Tweaks
 You may want to look at the premise of these mods—they can change gameplay quite a bit.
@@ -22,11 +23,10 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Amendments](https://modrinth.com/mod/6iTJugQR)
 - [CC: Tweaked](https://modrinth.com/mod/gu7yAYhd)
 - [Create](https://modrinth.com/mod/LNytGWDc) 
+    - [Create Aeronautics](https://modrinth.com/mod/create-aeronautics)
     - [Create Big Cannons](https://modrinth.com/mod/GWp4jCJj)
     - [Create Bits 'n' Bobs](https://modrinth.com/mod/T8bvmqVZ)
-    - [Create: Central Kitchen](https://modrinth.com/mod/btq68HMO)
     - [Create: Copycats+](https://modrinth.com/mod/UT2M39wf)
-    - [Create: Dragons Plus](https://modrinth.com/mod/dzb1a5WV)
     - [Create: Garnished](https://modrinth.com/mod/6e2SlzR4)
     - [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R)
     - [Create: Steam 'n' Rails 1.21.1](https://modrinth.com/mod/L3Jv0QZI)
@@ -35,6 +35,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Every Compat](https://modrinth.com/mod/eiktJyw1)
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM)
     - [Brewin' and Chewin'](https://modrinth.com/mod/brewin-and-chewin)
+- [Nature's Compass](https://modrinth.com/mod/natures-compass)
 - [No Man's Land](https://modrinth.com/mod/kjZCvAn6)
 - [Patchouli](https://modrinth.com/mod/nU0bVIaL)
 - [Satchels](https://modrinth.com/mod/satchels)
@@ -97,6 +98,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [McMouser](https://modrinth.com/mod/aXReRvgU) 🖥️🍎
 
 ### Libraries
+- [Sable](https://modrinth.com/mod/sable)
 - [M.R.U](https://modrinth.com/mod/SNVQ2c0g)
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc)
 - [Platform](https://modrinth.com/mod/i6fiqm5y)
