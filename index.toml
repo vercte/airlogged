@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "1475c4abbbb484f605d1d1a6c2d5d98fa52d0cd606b430f775f62956970b664d"
+hash = "612afda38bccb3e2ef459e031e981d66a0e345845b68109c04ec1c339bfec8dd"
 
 [[files]]
 file = "config/aileron.json"
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/pause-day-cycle.pw.toml"
-hash = "57412cc89b46f2a21b6178ea49049551b58ab45dc1d96f3541dd6e404cc645a5"
+hash = "a8bb27c7a03233f164d48537fffc20160c7166c7fba72e79780a36ca40356549"
 metafile = true
 
 [[files]]
