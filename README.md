@@ -27,7 +27,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
     - [Create Big Cannons](https://modrinth.com/mod/GWp4jCJj)
     - [Create Bits 'n' Bobs](https://modrinth.com/mod/T8bvmqVZ)
     - [Create: Copycats+](https://modrinth.com/mod/UT2M39wf)
-    - [Create: Garnished](https://modrinth.com/mod/6e2SlzR4)
+    - [Create: Garnished Reworked](https://modrinth.com/mod/create-garnished-reworked)
     - [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R)
     - [Create: Steam 'n' Rails 1.21.1](https://modrinth.com/mod/L3Jv0QZI)
     - [Create: Extended Wrenches](https://modrinth.com/mod/WNRCHiE5),
@@ -56,7 +56,6 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Biolith](https://modrinth.com/mod/iGEl6Crx)
 - [Bridging Mod](https://modrinth.com/mod/lO3s8hjs) 🖥️
 - [Cobweb](https://modrinth.com/mod/dQcfqGbl)
-- [Concurrent Chunk Management Engine](https://modrinth.com/mod/COlSi5iR) 🖥️☁️
 - [Controlling](https://modrinth.com/mod/xv94TkTM) 🖥️
 - [Death Keeper](https://modrinth.com/mod/death-keeper)
 - [EMI](https://modrinth.com/mod/fRiHVvU7) 🖥️☁️
