@@ -92,6 +92,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Discord Integration (DI)](https://modrinth.com/mod/discord-integration-(di))
 - [End Locker](https://github.com/vercte/endlock)
 - [Paxi](https://modrinth.com/mod/CU0PAyzb)
+- [Spark](https://modrinth.com/mod/spark)
 - [Yeetus Experimentus](https://modrinth.com/mod/HaaH232J) 🖥️
 - [Your Options Shall Be Respected (NeoForge)](https://modrinth.com/mod/1Q1Lbl0G) 🖥️☁️
 

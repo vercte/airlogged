@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "ec2788049d7719bfe462cb7d6c93db8a22961a53ef8815d9e16c7fd69e56dcf5"
+hash = "98c285bc311aae3c6f34cc134e5e47b69a797ae7dd20142ecaa6e0939cb88708"
 
 [[files]]
 file = "config/aileron.json"
@@ -389,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "5995decc8738d7ddccec218dfa1ed95db9eca5bb64c98fd2cede8bf9bbc837c2"
 metafile = true
 
 [[files]]
