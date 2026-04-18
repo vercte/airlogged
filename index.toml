@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "35de2d21c70448d49a48832133f25bc051f1517c7756ee9f3669b8b3919de4d9"
+hash = "d3dc0fd9f2eb6e9fdaa300c128c46162bd34e5e022bca4b764de62a62d530591"
 
 [[files]]
 file = "config/aileron.json"
@@ -109,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "0620370193cd76f48ebf81bd0d213cdc3adb5c640d8e39d5758d6f166c0c5036"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]

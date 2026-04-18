@@ -85,6 +85,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Sodium](https://modrinth.com/mod/AANobbMI) 🖥️
 
 ### Dev QOL
+- [Chunky](https://modrinth.com/mod/chunky) ☁️
 - [CME is Bad](https://modrinth.com/mod/ubAFBxFs) 🖥️☁️
 - [Crash Assistant](https://modrinth.com/mod/crash-assistant)
 - [Paxi](https://modrinth.com/mod/CU0PAyzb)
