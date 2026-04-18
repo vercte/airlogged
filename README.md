@@ -71,6 +71,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 
 ### Client Tweaks
 - [Figura](https://github.com/FiguraMC/Figura) 🖥️
+    - [Figura v5 Support](https://modrinth.com/mod/figura-v5-support) 🖥️
 - [Particle Rain](https://modrinth.com/mod/nrikgvxm) 🖥️
 - [Raised](https://modrinth.com/mod/nCQRBEiR) 🖥️
 - [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) 🖥️☁️
@@ -88,6 +89,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Chunky](https://modrinth.com/mod/chunky) ☁️
 - [CME is Bad](https://modrinth.com/mod/ubAFBxFs) 🖥️☁️
 - [Crash Assistant](https://modrinth.com/mod/crash-assistant)
+- [Discord Integration (DI)](https://modrinth.com/mod/discord-integration-(di))
 - [End Locker](https://github.com/vercte/endlock)
 - [Paxi](https://modrinth.com/mod/CU0PAyzb)
 - [Yeetus Experimentus](https://modrinth.com/mod/HaaH232J) 🖥️

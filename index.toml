@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "644cdd4621f40bf0322f6230a4dde028512e5b7ed4c757400fb0214512bef789"
+hash = "ec2788049d7719bfe462cb7d6c93db8a22961a53ef8815d9e16c7fd69e56dcf5"
 
 [[files]]
 file = "config/aileron.json"
@@ -197,6 +197,11 @@ hash = "28e5006830371ae54593597d26392df4619f0c15b3176769db902dbbbe1d7fbc"
 metafile = true
 
 [[files]]
+file = "mods/discord-integration-(di).pw.toml"
+hash = "ccaf95f72836ea50e8c96db21208dbe51ebf981fe736105b40d63d8fe631e7bd"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
@@ -229,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/figura-v5-support.pw.toml"
+hash = "5454feb615a93635c7f4b82fa77e3fbe2033cfda6ac736112b65dbb3b8f5f9d1"
 metafile = true
 
 [[files]]
