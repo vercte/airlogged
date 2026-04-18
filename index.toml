@@ -207,6 +207,11 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/endlock.pw.toml"
+hash = "fb3a2841dba839fb17e71a15b2aa972e69df1ccee1b0f42a12ba0dd479c94c53"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1610d7be42535a16971fe825983ee45af77dcbba37b37e75d5fa7f4d96cb3801"
 metafile = true

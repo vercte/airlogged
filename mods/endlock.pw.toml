@@ -1,0 +1,15 @@
+name = "EndLock"
+filename = "endlock-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/vercte/EndLock/releases/download/1.0.0/endlock-1.0.0%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "3808c4519750daca3ca04f3a5d3d53843b5771a32eded1b0607db643241c4753"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "vercte/EndLock"
+tag = "1.0.0"
