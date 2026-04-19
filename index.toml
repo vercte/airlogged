@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "222bbe53d00edcd49740f3021f9fcebedf12dad6ecce5fc653d1066df3c83f38"
+hash = "eb58221de7957394d7c9b865fd4e444bf2cdca89df3747a34374b25e39c16129"
 
 [[files]]
 file = "config/aileron.json"
@@ -189,11 +189,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
-metafile = true
-
-[[files]]
-file = "mods/death-keeper.pw.toml"
-hash = "28e5006830371ae54593597d26392df4619f0c15b3176769db902dbbbe1d7fbc"
 metafile = true
 
 [[files]]

@@ -58,7 +58,6 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Bridging Mod](https://modrinth.com/mod/lO3s8hjs) 🖥️
 - [Cobweb](https://modrinth.com/mod/dQcfqGbl)
 - [Controlling](https://modrinth.com/mod/xv94TkTM) 🖥️
-- [Death Keeper](https://modrinth.com/mod/death-keeper)
 - [EMI](https://modrinth.com/mod/fRiHVvU7) 🖥️☁️
     - [TooManyRecipeViewers](https://modrinth.com/mod/yFypjcfd) 🖥️☁️: JEI compat
 - [Harvest with ease](https://modrinth.com/mod/W4Ajthd2) ☁️
