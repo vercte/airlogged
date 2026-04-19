@@ -33,6 +33,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
     - [Create: Extended Wrenches](https://modrinth.com/mod/WNRCHiE5),
     - [Gears n' Kinetics](https://modrinth.com/mod/gears-n-kinetics)
 - [Every Compat](https://modrinth.com/mod/eiktJyw1)
+- [Exposure](https://modrinth.com/mod/exposure)
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM)
     - [Brewin' and Chewin'](https://modrinth.com/mod/brewin-and-chewin)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass)
