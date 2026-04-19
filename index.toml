@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "d2754c84f0e4770a5852543af08dd02029056d46b7eb751586f77f93af5a1811"
+hash = "21110f3cc2edf33c680d3c8a680813288bcbd41122f2385ac976619dc37d7979"
 metafile = true
 
 [[files]]
@@ -222,6 +222,11 @@ hash = "0bbd127263305d274c354e2cab30175875f5e5f43ee88258fb146942051c5f8b"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "1dc09ef29e50db6aba5c6fbfaf892983444a0d4ca25f856f1d2838e0c6546166"
+metafile = true
+
+[[files]]
 file = "mods/extended-wrenches.pw.toml"
 hash = "b26a7557ac7ff208a4842924a3a18027b08b5842d8ad2eb54a2c8ab278b1fa01"
 metafile = true
@@ -278,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "46aa0b35b218799fc47a3ef48fe9df8aebe2369db030f0538545ba84d082bcf3"
+hash = "c05fa3fa9bc5700104d928b616b15e70d441085dd060c6501122747dc3805de1"
 metafile = true
 
 [[files]]
@@ -358,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "a9b043b218bd43286ec498ad891715e3871aa2a4a6f1ba4838b4eb5d0dbf66a1"
+hash = "a8ac5ced9cafa5cf53d9f4d0cb61df06729d1a7b66b88d6b5a2e609b1ca26fa0"
 metafile = true
 
 [[files]]
@@ -413,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "2ca0a667b2c3da49d96068dc712e5e53ed6fd44926f1aeb458b00f51d9718f8d"
+hash = "2c903421b7961fe8d9e343c3b114c07eb2cd28ea5a0e98e501801fcc4ce9add6"
 metafile = true
 
 [[files]]
