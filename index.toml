@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "eb58221de7957394d7c9b865fd4e444bf2cdca89df3747a34374b25e39c16129"
+hash = "a1734679e2817ab4afd6bf12acb0e82626532951b64dafbb3f8cc878fd8a13a4"
+
+[[files]]
+file = "config/aiimprovements-common.toml"
+hash = "16eb2dc098fab4a2b7192cb87522640bdd87d39a97ad13ac081aca206f2706b2"
 
 [[files]]
 file = "config/aileron.json"
@@ -23,6 +27,14 @@ hash = "9617b1f0d9a5bcef2e3d23397814bed0e7d29e19de75374b2177502f1f3a2446"
 [[files]]
 file = "config/paxi-neoforge-1_21.toml"
 hash = "a4187daa91d863f90dacfcb443e2f062fe3ddbaace98cfdcfa8b3cc558f1f250"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "a62075e622ab8b1ffa6e3494eecbbbd590e1757d171f160ef6174edeb50bc964"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "90a3da935e89208bedba12ffcd243951e1894fd0ba316d37ce80b853949de4d6"
 
 [[files]]
 file = "config/yosbr/config/raised.json"
@@ -64,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
 metafile = true
 
 [[files]]
@@ -369,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
 metafile = true
 
 [[files]]

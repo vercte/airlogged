@@ -78,11 +78,12 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [YUNG's Menu Tweaks](https://modrinth.com/mod/Hcy2DFKF) 🖥️
 
 ### Optimization
+- [AI Improvements](https://modrinth.com/mod/ai-improvements)
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) 🖥️
 - [Ferritecore](https://modrinth.com/mod/ferritecore) 🖥️
 - [Ksyxis](https://modrinth.com/mod/2ecVyZ49) ☁️
-- [Lithium](https://modrinth.com/mod/gvQqBUqZ) ☁️
 - [Noisium](https://modrinth.com/mod/hasdd01q) ☁️
+- [ServerCore](https://modrinth.com/mod/servercore) ☁️
 - [Sodium](https://modrinth.com/mod/AANobbMI) 🖥️
 
 ### Dev QOL
