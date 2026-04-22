@@ -1,6 +1,7 @@
 name = "Create: Garnished Reworked"
 filename = "creategarnished-0.1.7.4+1.21.1-neoforged.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/f1wEzr0F/versions/wxWA2IgN/creategarnished-0.1.7.4%2B1.21.1-neoforged.jar"

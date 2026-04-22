@@ -7,8 +7,7 @@ By default, mods are **common** (installed everywhere, on both Client and Server
 - 🖥️ Client Only
 - ☁️ Server Only
 - 🍎 MacOS Only
-- ❓ Optional
-- 🕑 Temporary
+- 🚼 Required by Parent
 
 ### Important Tweaks
 You may want to look at the premise of these mods—they can change gameplay quite a bit.
@@ -42,6 +41,9 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Satchels](https://modrinth.com/mod/satchels)
 - [Slag n' Embers](https://modrinth.com/mod/56bnCCwq)
 - [Supplementaries](https://modrinth.com/mod/fFEIiSDQ)
+- [WATERFrAMES](https://modrinth.com/mod/waterframes/)
+    - [WATERMeDIA](https://modrinth.com/mod/watermedia) 🖥️🚼
+    - [WATERViSION](https://modrinth.com/mod/watervision) 🚼
 - [VanillaBackport](https://modrinth.com/mod/6xwxDTgf)
 - [Vista](https://modrinth.com/mod/zuARv1N7)
 
@@ -54,7 +56,6 @@ You may want to look at the premise of these mods—they can change gameplay qui
     - [Curios API](https://modrinth.com/mod/vvuO3ImH): Duh
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) 🖥️☁️
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ)
-- [Biolith](https://modrinth.com/mod/iGEl6Crx)
 - [Bridging Mod](https://modrinth.com/mod/lO3s8hjs) 🖥️
 - [Cobweb](https://modrinth.com/mod/dQcfqGbl)
 - [Controlling](https://modrinth.com/mod/xv94TkTM) 🖥️
@@ -85,6 +86,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Noisium](https://modrinth.com/mod/hasdd01q) ☁️
 - [ServerCore](https://modrinth.com/mod/servercore) ☁️
 - [Sodium](https://modrinth.com/mod/AANobbMI) 🖥️
+- [Vanillin](https://modrinth.com/mod/flw-vanillin) 🖥️
 
 ### Dev QOL
 - [Chunky](https://modrinth.com/mod/chunky) ☁️
@@ -102,6 +104,10 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [McMouser](https://modrinth.com/mod/aXReRvgU) 🖥️🍎
 
 ### Libraries
+- [Biolith](https://modrinth.com/mod/iGEl6Crx)
+- [CreativeCore](https://modrinth.com/mod/creativecore)
+- [Flywheel](https://modrinth.com/mod/flywheel)
+    - here because of vanillin
 - [Sable](https://modrinth.com/mod/sable)
 - [M.R.U](https://modrinth.com/mod/SNVQ2c0g)
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc)
