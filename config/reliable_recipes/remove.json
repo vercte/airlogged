@@ -1,0 +1,36 @@
+[
+  {
+    "action": "remove_recipe",
+    "output": "powergrid:zinc_sheet"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": "createbigcannons",
+    "type": [ "create:cutting" ],
+    "input": "#minecraft:logs"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": "createbigcannons",
+    "output": "createbigcannons:spring_wire"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": "minecraft",
+    "output": "minecraft:barrel"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": [ "minecraft", "nomansland" ],
+    "output": "#minecraft:wooden_trapdoors"
+  },
+  {
+    "action": "replace_input",
+    "target": "createbigcannons:recoil_spring",
+    "replacement": [
+      "simulated:spring",
+      "createbigcannons:recoil_spring"
+    ],
+    "mod": "createbigcannons"
+  }
+]

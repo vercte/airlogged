@@ -1,4 +1,4 @@
-# Airlogged
+# Skylogged
 Modpack for Wilderness Season 4. Featuring Create Aeronautics
 
 ## Mod List
@@ -25,12 +25,15 @@ You may want to look at the premise of these mods—they can change gameplay qui
     - [Create Aeronautics](https://modrinth.com/mod/create-aeronautics)
     - [Create Big Cannons](https://modrinth.com/mod/GWp4jCJj)
     - [Create Bits 'n' Bobs](https://modrinth.com/mod/T8bvmqVZ)
+    - [Create Connected](https://modrinth.com/mod/create-connected/)
     - [Create: Copycats+](https://modrinth.com/mod/UT2M39wf)
+    - [Create Deco](https://modrinth.com/mod/create-deco)
+    - [Create: Design n' Decor](https://modrinth.com/mod/create-design-n-decor)
     - [Create: Garnished Reworked](https://modrinth.com/mod/create-garnished-reworked)
     - [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R)
     - [Create: Steam 'n' Rails 1.21.1](https://modrinth.com/mod/L3Jv0QZI)
     - [Create: Extended Wrenches](https://modrinth.com/mod/WNRCHiE5),
-    - [Gears n' Kinetics](https://modrinth.com/mod/gears-n-kinetics)
+    - [Create: Gears n' Kinetics](https://modrinth.com/mod/gears-n-kinetics)
 - [Every Compat](https://modrinth.com/mod/eiktJyw1)
 - [Exposure](https://modrinth.com/mod/exposure)
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM)
@@ -82,6 +85,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [AI Improvements](https://modrinth.com/mod/ai-improvements)
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) 🖥️
 - [Ferritecore](https://modrinth.com/mod/ferritecore) 🖥️
+- [Flerovium](https://modrinth.com/mod/flerovium) 🖥️
 - [Ksyxis](https://modrinth.com/mod/2ecVyZ49) ☁️
 - [Noisium](https://modrinth.com/mod/hasdd01q) ☁️
 - [ServerCore](https://modrinth.com/mod/servercore) ☁️
@@ -95,6 +99,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Discord Integration (DI)](https://modrinth.com/mod/discord-integration-(di))
 - [End Locker](https://github.com/vercte/endlock)
 - [Paxi](https://modrinth.com/mod/CU0PAyzb)
+- [Reliable Remover](https://modrinth.com/mod/reliable-remover)
 - [Spark](https://modrinth.com/mod/spark)
 - [Yeetus Experimentus](https://modrinth.com/mod/HaaH232J) 🖥️
 - [Your Options Shall Be Respected (NeoForge)](https://modrinth.com/mod/1Q1Lbl0G) 🖥️☁️

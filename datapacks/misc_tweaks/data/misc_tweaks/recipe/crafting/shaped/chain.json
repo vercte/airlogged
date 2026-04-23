@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "I": {
-      "item": "create:zinc_ingot"
+      "item": "minecraft:iron_ingot"
     },
     "N": {
-      "item": "create:zinc_nugget"
+      "item": "minecraft:iron_nugget"
     }
   },
   "pattern": [
@@ -15,7 +15,7 @@
     "N"
   ],
   "result": {
-    "count": 4,
+    "count": 2,
     "id": "minecraft:chain"
   }
 }

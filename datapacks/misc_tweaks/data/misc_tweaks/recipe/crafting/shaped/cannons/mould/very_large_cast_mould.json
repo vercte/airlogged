@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "createbigcannons:large_cast_mould"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "/#/"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createbigcannons:very_large_cast_mould"
+  }
+}
