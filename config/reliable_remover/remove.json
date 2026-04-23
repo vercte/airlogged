@@ -1,0 +1,12 @@
+[
+  {
+    "action": "remove_creative",
+    "mod": "powergrid",
+    "items": [ "powergrid:zinc_sheet" ]
+  },
+  {
+    "action": "remove_creative",
+    "mod": "createbigcannons",
+    "items": [ "createbigcannons:recoil_spring", "createbigcannons:spring_wire" ]
+  }
+]

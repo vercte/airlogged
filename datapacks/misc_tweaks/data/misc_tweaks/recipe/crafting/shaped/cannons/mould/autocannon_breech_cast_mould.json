@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "createbigcannons:autocannon_recoil_spring_cast_mould"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "/#/"
+  ],
+  "result": {
+    "count": 1,
+    "id": "createbigcannons:autocannon_breech_cast_mould"
+  }
+}
