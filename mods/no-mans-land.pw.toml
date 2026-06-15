@@ -1,13 +1,13 @@
 name = "No Man's Land"
-filename = "nomansland-1.5.3.jar"
+filename = "nomansland-1.5.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kjZCvAn6/versions/kmLldBrQ/nomansland-1.5.3.jar"
+url = "https://cdn.modrinth.com/data/kjZCvAn6/versions/PlMFRaAA/nomansland-1.5.9.jar"
 hash-format = "sha512"
-hash = "82307528b0b9cee5560dff7b624f052815ddae85ba5336c8e8e43433ce37abbdef83e3fa1c3444f3d19dc3ed5fb5364e26c54524dbc38a2a440e1202149c7d28"
+hash = "52097a17df4ff8c78e5e4f9c11a520067537589e6f76f8bce9384727413bb6855b92c235cf8ba223a571403a8296c25e24eb411d3194cbce3fbefa9568b8f18e"
 
 [update]
 [update.modrinth]
 mod-id = "kjZCvAn6"
-version = "kmLldBrQ"
+version = "PlMFRaAA"

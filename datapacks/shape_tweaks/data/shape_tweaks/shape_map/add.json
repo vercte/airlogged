@@ -95,6 +95,10 @@
         ],
         "dndecor:dark_metal_block": [
             "dndecor:dark_metal_plating"
+        ],
+
+        "/simulated_addition:(?<wood>.*(?!symmetric)?)_sail/": [
+            "simulated_addition:${wood}_symmetric_sail"
         ]
     }
 }

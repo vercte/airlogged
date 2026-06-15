@@ -1,13 +1,13 @@
 name = "Clutter No More"
-filename = "clutternomore-2.0.1+1.21.1-neoforge.jar"
+filename = "clutternomore-2.0.3+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ewyjbmG4/versions/7cQs38Nz/clutternomore-2.0.1%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/ewyjbmG4/versions/uNIYB1Mk/clutternomore-2.0.3%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "6f14191ced04d834f15e59f2b6e27020aa9647ad3ef39e505a4f01a1d3b3af84062cea3655cd86fe0816f689022b92c5c3458000b0002ae283184c881f658d01"
+hash = "aa48785a2937ea9b4d10cdf06bc9376c8ee0d8ed988924a76149b91599866e1a37c38072e563119f0475efd2c4faa3e24f6472750a1e4c610a6efe38c44a6c1a"
 
 [update]
 [update.modrinth]
 mod-id = "ewyjbmG4"
-version = "7cQs38Nz"
+version = "uNIYB1Mk"
